@@ -1,9 +1,9 @@
 > 出于娱乐与学习目的，请勿用于商业目的
 ***
-<a href='https://dashuaige2025.lanzouu.com/iV9tP3n1fb3c'>![download](https://img.shields.io/badge/download%20%7C%20last-exe-blue.svg)</a>
-<a href='https://dashuaige2025.lanzouu.com/b016knwxli'>![download](https://img.shields.io/badge/download%20%7C%20history%20%7C%20password%20c72r-exe-blue.svg)</a>
+<a href='https://dashuaige2025.lanzouu.com/iV9tP3n1fb3c'>![download](https://img.shields.io/badge/download%20%7C%20last-exe-green.svg)</a>
+<a href='https://dashuaige2025.lanzouu.com/b016knwxli'>![download](https://img.shields.io/badge/download%20%7C%20history%20%7C%20password%20c72r-exe-yellow.svg)</a>
 ![Version](https://img.shields.io/badge/version-b26.9-blue.svg)
-![Python](https://img.shields.io/badge/python-3.7+-green.svg)
+<a href='https://www.python.org/downloads/'>![Python](https://img.shields.io/badge/python-3.7+-green.svg)</a>
 
 # Minecraft-2D-code-PY
 ## 这是一个2D版我的世界的项目
