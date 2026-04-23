@@ -1328,11 +1328,6 @@ class Game:
                     
                     surf = pygame.transform.scale(texture, (Config.TILE_SIZE, Config.TILE_SIZE))
                     
-                    # 草方块特殊处理（添加绿色）
-                    if block_type == BlockType.GRASS:
-                        green_overlay = pygame.Surface((Config.TILE_SIZE, Config.TILE_SIZE), pygame.SRCALPHA)
-                        green_overlay.fill((34, 139, 34, 180))
-                        surf.blit(green_overlay, (0, 0), special_flags=pygame.BLEND_RGBA_MULT)
                     
                     self.texture_cache[block_type] = surf
                     print(f"  ✓ 成功加载 {texture_file}")
